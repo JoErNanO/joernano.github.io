@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            'Francesco Giovannini'
+tagline:          'Computational neuroscientist'
+description:      'Research Assistant and PhD Student in the <a href="http://neurosys.loria.fr">Neurosys Team</a> at <a href="http://www.inria.fr/en/centre/nancy">INRIA Nancy</a> and <a href="http://www.loria.fr">LORIA</a>.'
+url:              http://joernano.github.io
+baseurl:          /
+
+author:
+  name:           'Francesco Giovannini'
+  url:            https://joernano.github.io
+  img:            'img/FrancescoGiovannini.jpg'
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
