@@ -1,13 +1,18 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
       <div class="sidebar-about">
-          <img src="{{ site.baseurl }}{{ site.author.img }}" alt="Francesco Giovannini" width="150px">
-      <h1>
-        <a href="{{ site.baseurl }}">
-          {{ site.title }}
-        </a>
-      </h1>
-      <p class="lead">{{ site.description }}</p>
+          <img src="{{ site.baseurl }}{{ site.author.img }}" alt="Francesco Giovannini" width="175px">
+          <h2>
+          <a href="{{ site.baseurl }}">
+              {{ site.title }}
+          </a>
+      </h2>
+        <div class="sidebar-about-icons">
+          <a href="https://github.com/JoErNanO"><img src="{{ site.baseurl }}{{ site.icons.github }}" alt="github"></a>
+          <a href="https://www.linkedin.com/in/francescogiovannini"><img src="{{ site.baseurl }}{{ site.icons.linkedin }}" alt="linkedin"></a>
+      </div>
+      <p style="clear: both;">
+      <!-- <p>{{ site.description }}</p> -->
     </div>
 
     <nav class="sidebar-nav">
@@ -34,6 +39,8 @@
       -->
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <div class="sidebar-copyright">
+        <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    </div>
   </div>
 </div>

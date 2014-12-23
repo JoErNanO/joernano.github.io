@@ -9,14 +9,18 @@ relative_permalinks: true
 # Setup
 title:            'Francesco Giovannini'
 tagline:          'Computational neuroscientist'
-description:      'Research Assistant and PhD Student in the <a href="http://neurosys.loria.fr">Neurosys Team</a> at <a href="http://www.inria.fr/en/centre/nancy">INRIA Nancy</a> and <a href="http://www.loria.fr">LORIA</a>.'
+description:      'I am a Research Assistant and PhD Student in the <a href="http://neurosys.loria.fr">Neurosys Team</a> at <a href="http://www.inria.fr/en/centre/nancy">INRIA Nancy</a> and <a href="http://www.loria.fr">LORIA</a>. My work focuses on modelling the memory system under general anaesthesia.'
 url:              http://joernano.github.io
 baseurl:          /
 
 author:
   name:           'Francesco Giovannini'
   url:            https://joernano.github.io
-  img:            'img/FrancescoGiovannini.jpg'
+  img:            'img/FrancescoGiovannini.jpeg'
+
+icons:
+    github: 'img/github.png'
+    linkedin: 'img/linkedin.png'
 
 paginate:         5
 

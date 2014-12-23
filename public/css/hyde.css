@@ -76,11 +76,18 @@ html {
 }
 
 /* About section */
-.sidebar-about h2 {
+.sidebar-about h1 {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
   font-size: 3.25rem;
+}
+
+/* Sidebar icons */
+.sidebar-about-icons img {
+    width: 30px;
+    float: left;
+    margin-right: 5%;
 }
 
 /* Sidebar nav */
@@ -97,6 +104,11 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
+}
+
+/* Sidebar copyright */
+.sidebar-copyright {
+    font-size: 12px;
 }
 
 /* Sticky sidebar
