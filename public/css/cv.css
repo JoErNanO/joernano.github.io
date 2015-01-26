@@ -2,3 +2,19 @@ table.cv {
     font-size: 14pt;
 }
 
+table.cv td.cv-date {
+    font-size: 10pt;
+    width: 200px;
+}
+
+table.cv td.cv-date span.cv-institution {
+    font-size: 13pt;
+}
+
+table.cv td.cv-exp {
+    width: 800px;
+}
+
+table.cv span.cv-student {
+    padding-left: 2em;
+}

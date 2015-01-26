@@ -263,9 +263,12 @@ a.sidebar-nav-item:focus {
 
 /* FG */
 .theme-base-10 .sidebar {
-  background-color: #0E0088;
+  background-color: #0E00FF;
+  #background-color: #0E0088;
+  #background-color: #0282D7;
 }
 .theme-base-10 .content a,
 .theme-base-10 .related-posts li a:hover {
-  color: #0E0088;
+  #color: #0E0088;
+  color: #0282D7;
 }
