@@ -23,6 +23,7 @@ author:
 icons:
     github: 'img/github.png'
     linkedin: 'img/linkedin.png'
+    email: 'img/email.png'
 
 paginate:         5
 
