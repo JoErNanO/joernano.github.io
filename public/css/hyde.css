@@ -41,7 +41,7 @@ html {
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -140,7 +140,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 42rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
@@ -263,12 +263,13 @@ a.sidebar-nav-item:focus {
 
 /* FG */
 .theme-base-10 .sidebar {
-  background-color: #0E00FF;
+  #background-color: #0E00FF;
+  background-color: #000000;
   #background-color: #0E0088;
   #background-color: #0282D7;
 }
 .theme-base-10 .content a,
 .theme-base-10 .related-posts li a:hover {
-  #color: #0E0088;
   color: #0282D7;
+  #color: #0E0088;
 }
