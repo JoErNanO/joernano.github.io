@@ -1,9 +1,13 @@
-.bibnum {
+td.bibtexnumber, td.bibtexitem {
+    border: #FFFFFF;
+}
+
+td.bibtexnumber {
     font-size: 12px;
 }
 
-.bibitem {
-    font-size: 14px;
+td.bibtexitem {
+    font-size: 15px;
 }
 
 .bibtex2htmlcopy {
