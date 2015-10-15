@@ -31,7 +31,7 @@ icons:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          2.2.0
 
 github:
   repo:           https://github.com/joernano/joernano.github.io
