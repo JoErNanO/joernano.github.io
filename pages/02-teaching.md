@@ -12,6 +12,8 @@ title: Teaching
 - **Techniques and Tools for Programming** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Eng. Year 1  
     &nbsp;&nbsp;&nbsp;&nbsp; Course taught by Dr. Sébastien da Silva
 
+---
+
 ## Internship Supervision
 
 #### [INRIA](http://www.inria.fr) - 2014/15 
