@@ -17,11 +17,15 @@ title: Publications
             [<a id="Jamali2015" name="Jamali2015">2</a>]
         </td>
 
-        <td class="bibtexitem">N.&nbsp;Jamali, M.&nbsp;Maggiali,
-        F.&nbsp;Giovannini, G.&nbsp;Metta, and L.&nbsp;Natale. A New Design of
-        a Fingertip for the iCub Hand, in Proc. In <em>Proceedings of the
-        IIEEE/RSJ International Conference on Intelligent Robots and
-        Systems</em>, Hamburg, 2015.</td>
+        <td class="bibtexitem">
+            N.&nbsp;Jamali, M.&nbsp;Maggiali,
+            F.&nbsp;Giovannini, G.&nbsp;Metta, and L.&nbsp;Natale. A New Design of
+            a Fingertip for the iCub Hand, in Proc. In <em>Proceedings of the
+            IIEEE/RSJ International Conference on Intelligent Robots and
+            Systems</em>, Hamburg, 2015.
+            [&nbsp;<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7353747">PDF</a>&nbsp;| 
+            <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7353747">LINK</a>&nbsp;]
+        </td>
     </tr>
 
     <tr valign="top">
