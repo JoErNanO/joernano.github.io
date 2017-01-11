@@ -1,8 +1,11 @@
 # Dependencies
-markdown:         redcarpet
-redcarpet:
-  extensions: ["autolink", "tables", "with_toc_data"]
-highlighter:      pygments
+highlighter: rouge
+markdown: kramdown
+kramdown:
+    input: GFM
+    auto_ids: true
+    syntax_highlighter: rouge
+    smart_quotes: lsquo,rsquo,ldquo,rdquo
 
 # Permalinks
 permalink:        pretty
