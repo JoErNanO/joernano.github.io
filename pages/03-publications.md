@@ -10,6 +10,25 @@ title: Publications
      /usr/bin/bibtex2html -s abbrv -nodoc -nf url LINK -nf pdf PDF -nf x-slides Slides -nf hal "full text on HAL" -i -d -r -revkeys -nobibsource FGPubs-PapersAndConfs.bib  -->
 
 
+## Peer-Reviewed Journals
+<table class="bibliography">
+    <tr valign="top">
+        <td align="right" class="bibtexnumber">
+            [<a name="Giovannini2017Hippocampus">1</a>]
+        </td>
+        <td class="bibtexitem">
+            F.&nbsp;Giovannini, B.&nbsp;Knauer, M.&nbsp;Yoshida, and L.&nbsp;Buhry.
+             The CAN-In neural network: A mathematical model for theta
+              oscillations and memory maintenance in the hippocampus.
+             <em>Hippocampus</em>, 2017.
+            [&nbsp;<a href="http://dx.doi.org/10.1002/hipo.22704">DOI</a>&nbsp;| 
+            <a href="http://dx.doi.org/10.1002/hipo.22704">LINK</a>&nbsp;]
+        </td>
+    </tr>
+</table>
+
+---
+
 ## Full Papers and Refereed Conferences
 <table class="bibliography">
     <tr valign="top">
@@ -50,6 +69,21 @@ title: Publications
 
 ## Short Papers and Abstracts
 <table class="bibliography">
+    <tr valign="top">
+        <td align="right" class="bibtexnumber">
+            [<a name="Giovannini2016SFN">5</a>]
+        </td>
+
+        <td class="bibtexitem">
+            F.&nbsp;Giovannini, B.&nbsp;Knauer, M.&nbsp;Yoshida, and L.&nbsp;Buhry.
+             Spiking regimes in model networks of hippocampal persistent firing
+              neurons.
+             In <em>Neuroscience 2016</em>, 2016.
+            [&nbsp;<a href="https://hal.archives-ouvertes.fr/hal-01402515/file/FrancescoGiovannini-SFN2016-Abstract.pdf">PDF</a>&nbsp;| 
+            <a href="https://hal.archives-ouvertes.fr/hal-01402515">LINK</a>&nbsp;]
+        </td>
+    </tr>
+
     <tr valign="top">
         <td align="right" class="bibtexnumber">
             [<a id="Giovannini2015Bernstein" name=
