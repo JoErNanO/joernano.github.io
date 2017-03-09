@@ -12,3 +12,4 @@ The encoding of, and the ability to retrieve perceived past experiences are both
 Indeed this familiarity derives from our every-day use of our mnemonic functions as we imagine, perceive, and experience life. However, the interior workings of the brain which provide us with such faculties are far from being fully unravelled. 
 Intrigued by this challenge ultimately my objective is to orient my research towards practical medical and rehabilitative applications.
 
+OLD do not edit. Use ../index.html
