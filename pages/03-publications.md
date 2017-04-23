@@ -7,7 +7,9 @@ title: Publications
      (see http://www.lri.fr/~filliatr/bibtex2html/),
      with the following command:
      /usr/bin/bibtex2html -s abbrv -nodoc -nf url LINK -nf pdf PDF -nf x-slides Slides -nf hal "full text on HAL" -i -d -r -revkeys -nobibsource -nofooter FGPubs-PapersAndConfs.bib
-     /usr/bin/bibtex2html -s abbrv -nodoc -nf url LINK -nf pdf PDF -nf x-slides Slides -nf hal "full text on HAL" -i -d -r -revkeys -nobibsource FGPubs-PapersAndConfs.bib  -->
+     /usr/bin/bibtex2html -s abbrv -nodoc -nf url LINK -nf pdf PDF -nf x-slides Slides -nf hal "full text on HAL" -i -d -r -revkeys -nobibsource FGPubs-PapersAndConfs.bib 
+     /usr/bin/bibtex2html -s abbrv -nodoc -nf url LINK -nf pdf PDF -nf x-slides Slides -nf hal "full text on HAL" -i -d -r -revkeys --no-abstract -nobibsource FGPubs-Journals.bib  
+-->
 
 
 ## Peer-Reviewed Journals
@@ -20,7 +22,7 @@ title: Publications
             F.&nbsp;Giovannini, B.&nbsp;Knauer, M.&nbsp;Yoshida, and L.&nbsp;Buhry.
              The CAN-In neural network: A mathematical model for theta
               oscillations and memory maintenance in the hippocampus.
-             <em>Hippocampus</em>, 2017.
+             <em>Hippocampus</em>, 27(4):450-463, 2017.
             [&nbsp;<a href="http://dx.doi.org/10.1002/hipo.22704">DOI</a>&nbsp;| 
             <a href="http://dx.doi.org/10.1002/hipo.22704">LINK</a>&nbsp;]
         </td>
