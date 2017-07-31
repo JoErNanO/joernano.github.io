@@ -15,9 +15,9 @@ permalink:        pretty
 title:            'Francesco Giovannini'
 tagline:          'Computational neuroscientist'
 description:      'I am a Research Assistant and PhD Student in the <a href="http://neurosys.loria.fr">Neurosys Team</a> at <a href="http://www.inria.fr/en/centre/nancy">INRIA Nancy</a> and <a href="http://www.loria.fr">LORIA</a>. My work focuses on modelling the memory system under general anaesthesia using biologically-inspired spiking neural networks and physiological recordings of neural activity.'
-#url:              http://joernano.github.io
+url:              https://joernano.github.io
 #url:              http://joernano.com
-url:              http://francescogiovannini.com
+#url:              http://francescogiovannini.com
 baseurl:          /
 
 dirlist:
