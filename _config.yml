@@ -18,7 +18,7 @@ description:      'I am a Research Assistant and PhD Student in the <a href="htt
 url:              https://joernano.github.io
 #url:              http://joernano.com
 #url:              http://francescogiovannini.com
-baseurl:          /joernano.github.io
+baseurl:          /joernano.github.io/
 
 dirlist:
     downloads:  'downloads'
