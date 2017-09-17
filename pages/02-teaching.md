@@ -6,9 +6,13 @@ title: Teaching
 
 ## Teaching Assistantship
 
+#### [TELECOM Nancy](http://www.telecomnancy.eu) School of Engineering in Information Technology - 2017/18
+- **Artificial Intelligence** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc. Year 2  
+    &nbsp;&nbsp;&nbsp;&nbsp; Course taught by [Francesco Giovannini]({{site.baseurl}})
+
 #### [TELECOM Nancy](http://www.telecomnancy.eu) School of Engineering in Information Technology - 2016/17
 - **Artificial Intelligence** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc. Year 2  
-    &nbsp;&nbsp;&nbsp;&nbsp; Course taught by [Francesco Giovannini]({{site.baseurl}}) and [Dr. Laurent Bougrain](http://www.loria.fr/~bougrain/)
+    &nbsp;&nbsp;&nbsp;&nbsp; Course taught by [Francesco Giovannini]({{site.baseurl}})
 
 #### [TELECOM Nancy](http://www.telecomnancy.eu) School of Engineering in Information Technology - 2015/16
 - **Artificial Intelligence** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc. Year 2  
