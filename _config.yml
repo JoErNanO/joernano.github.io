@@ -31,6 +31,7 @@ author:
 icons:
     github: 'img/github.png'
     linkedin: 'img/linkedin-bw.png'
+    scholar: 'img/scholar-bw.png'
     email: 'img/email.png'
 
 paginate:         5
