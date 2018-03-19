@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 
-## Teaching Assistantship
+## Assistant Professorship
 
 #### [TELECOM Nancy](http://www.telecomnancy.eu) School of Engineering in Information Technology - 2017/18
 - **Artificial Intelligence** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc. Year 2  
