@@ -6,6 +6,10 @@ title: Teaching
 
 ## Assistant Professorship
 
+#### [University of Luxembourg](https://wwwen.uni.lu/) Faculty of Science, Technology and Medicine (FSTM) - 2020/21
+- **Artificial Intelligence** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc. Year 2  
+    &nbsp;&nbsp;&nbsp;&nbsp; Course taught by [Francesco Giovannini]({{site.baseurl}})
+
 #### [TELECOM Nancy](http://www.telecomnancy.eu) School of Engineering in Information Technology - 2017/18
 - **Artificial Intelligence** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc. Year 2  
     &nbsp;&nbsp;&nbsp;&nbsp; Course taught by [Francesco Giovannini]({{site.baseurl}})
