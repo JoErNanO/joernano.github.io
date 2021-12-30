@@ -6,6 +6,10 @@ title: Teaching
 
 ## Assistant Professorship
 
+#### [University of Luxembourg](https://wwwen.uni.lu/) Faculty of Science, Technology and Medicine (FSTM) - 2021/22
+- **Artificial Intelligence** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc. Year 2  
+    &nbsp;&nbsp;&nbsp;&nbsp; Course taught by [Francesco Giovannini]({{site.baseurl}})
+
 #### [University of Luxembourg](https://wwwen.uni.lu/) Faculty of Science, Technology and Medicine (FSTM) - 2020/21
 - **Artificial Intelligence** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc. Year 2  
     &nbsp;&nbsp;&nbsp;&nbsp; Course taught by [Francesco Giovannini]({{site.baseurl}})
@@ -26,7 +30,26 @@ title: Teaching
 
 ---
 
-## Internship Supervision
+## Research Supervision
+
+#### [University of Luxembourg](https://wwwen.uni.lu/) - 2020/21
+- **Bassem Hichri**, FNR Industrial Fellowship Post-Doc
+Project Title: *Flex-Man -- Flexible Manipulation in Industrial Environment*
+
+#### [University of Luxembourg](https://wwwen.uni.lu/) - 2020/21
+- **Diogo Machado**, MSPC Master Thesis
+Project Title: *Industrial Internet of Things for Predictive Maintenance in Small and Medium Enterprises*
+
+- **Laura Rolles**, MSPC Master Student
+Project Title: *Developing Methods for Analysing Big Datasets for Predictive Maitenance on Production Machines*
+
+#### [University of Luxembourg](https://wwwen.uni.lu/) - 2018/19
+- **Abdoellah Adam**, MSPC Master Thesis
+Project Title: *Flexible automation of a cork feeding system*
+
+#### [INRIA](http://www.inria.fr) - 2015/16 
+- **Clément Langlet**, M1 Engineering Student
+Project Title: *Modelling the Effects of Propofol on Neuronal Synchronization in Network of Interneurons*
 
 #### [INRIA](http://www.inria.fr) - 2014/15 
 - **Jean-Baptiste Schneider**,  M1 Biology Student  
