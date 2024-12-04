@@ -6,21 +6,12 @@ title: Teaching
 
 ## Assistant Professorship
 
-#### [University of Luxembourg](https://wwwen.uni.lu/) Faculty of Science, Technology and Medicine (FSTM) - 2021/22
-- **Artificial Intelligence** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc. Year 2  
-    &nbsp;&nbsp;&nbsp;&nbsp; Course taught by [Francesco Giovannini]({{site.baseurl}})
 
-#### [University of Luxembourg](https://wwwen.uni.lu/) Faculty of Science, Technology and Medicine (FSTM) - 2020/21
+#### [University of Luxembourg](https://wwwen.uni.lu/) Faculty of Science, Technology and Medicine (FSTM) - 2020/present
 - **Artificial Intelligence** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc. Year 2  
-    &nbsp;&nbsp;&nbsp;&nbsp; Course taught by [Francesco Giovannini]({{site.baseurl}})
 
-#### [TELECOM Nancy](http://www.telecomnancy.eu) School of Engineering in Information Technology - 2017/18
+#### [TELECOM Nancy](http://www.telecomnancy.eu) School of Engineering in Information Technology - 2016/18
 - **Artificial Intelligence** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc. Year 2  
-    &nbsp;&nbsp;&nbsp;&nbsp; Course taught by [Francesco Giovannini]({{site.baseurl}})
-
-#### [TELECOM Nancy](http://www.telecomnancy.eu) School of Engineering in Information Technology - 2016/17
-- **Artificial Intelligence** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc. Year 2  
-    &nbsp;&nbsp;&nbsp;&nbsp; Course taught by [Francesco Giovannini]({{site.baseurl}})
 
 #### [TELECOM Nancy](http://www.telecomnancy.eu) School of Engineering in Information Technology - 2015/16
 - **Artificial Intelligence** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc. Year 2  
@@ -32,7 +23,11 @@ title: Teaching
 
 ## Research Supervision
 
-#### [University of Luxembourg](https://wwwen.uni.lu/) - 2020/21
+#### [Universit&agrave; di Camerino](https://www.unicam.it/en) - 2024/27
+- **Niccol&ograve; Francioni**, PhD Thesis 
+Project Title: *Analysis and investigation of industrial machinery optimization systems based on Digital Twin and Artificial Intelligence*
+
+#### [University of Luxembourg](https://wwwen.uni.lu/) - 2020/22
 - **Bassem Hichri**, FNR Industrial Fellowship Post-Doc  
 Project Title: *Flex-Man -- Flexible Manipulation in Industrial Environment*
 
